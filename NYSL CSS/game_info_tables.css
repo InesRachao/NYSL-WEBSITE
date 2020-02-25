@@ -1,0 +1,36 @@
+h2{
+    position:relative;
+    font-size:xx-large;
+    text-align:center;
+}
+h3{
+    font-style:italic;
+    font-size:larger;
+    text-decoration:underline;
+}
+p{
+    font-style:italic;
+    font-size:large;
+    text-decoration:underline;
+}
+table{
+    width:100%;
+    height:auto;
+}
+th{
+    text-align:left;
+    text-decoration: underline;  
+}
+#sepotc{
+    text-align:center;
+}
+td{
+    text-align:left
+}
+#dates{
+    text-align:center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+}
