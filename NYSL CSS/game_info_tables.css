@@ -2,35 +2,68 @@ h2{
     position:relative;
     font-size:xx-large;
     text-align:center;
+    font-family:sans-serif;~
 }
 h3{
     font-style:italic;
     font-size:larger;
     text-decoration:underline;
+    font-family:sans-serif;
+    padding-left:90px;
 }
 p{
     font-style:italic;
     font-size:large;
     text-decoration:underline;
+    font-family:sans-serif;
+    padding-left:90px;
 }
-table{
+.tab{
+    width:75%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:15px;
+}
+.tab2{
     width:100%;
     height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:90px;
+}
+.tab3{
+    width:75%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:90px;
+}
+.tab4{
+    width:100%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:90px;
+    text-align:left;
+}
+.sepoct{
+    text-align:center;
+    padding-top:20px;
+}
+#gameloc{
+    text-align:left;
+    text-decoration:none;
 }
 th{
     text-align:left;
-    text-decoration: underline;  
-}
-#sepotc{
-    text-align:center;
+    text-decoration:underline; 
+    padding-top:20px;
 }
 td{
-    text-align:left
+    text-align:left;
+    font-size:large;
 }
-#dates{
+.dates{
     text-align:center;
-}
-.flex-container{
-    display: flex;
-    flex-direction: column;
 }
