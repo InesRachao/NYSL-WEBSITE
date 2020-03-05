@@ -1,0 +1,79 @@
+h2{
+    position:relative;
+    font-size:xx-large;
+    text-align:center;
+    font-family:sans-serif;
+}
+h3{
+    font-style:italic;
+    font-size:larger;
+    text-decoration:underline;
+    font-family:sans-serif;
+    padding-left:90px;
+}
+#note{
+    font-style:italic;
+    font-size:medium;
+    text-decoration:underline;
+    font-family:sans-serif;
+    padding-left:90px;
+}
+.tab{
+    width:75%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:15px;
+}
+.tab2{
+    width:100%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:90px;
+}
+p{
+    width:65%;
+    font-family: sans-serif;
+    font-size: large;
+    margin-bottom: 30px;
+    padding-left:90px;
+}
+.tab3{
+    width:100%;
+    height:auto;
+    font-family:sans-serif;
+    margin-bottom:30px;
+    padding-left:90px;
+    text-align:left;
+}
+.sepoct{
+    text-align:center;
+    padding-top:20px;
+}
+#gameloc{
+    text-align:left;
+    text-decoration:none;
+}
+th{
+    text-align:left;
+    text-decoration:underline; 
+    padding-top:20px;
+}
+td{
+    text-align:left;
+    font-size:large;
+}
+.dates{
+    text-align:center;
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    padding-right: 640px;
+}
+div{
+    font-family: sans-serif;
+    justify-content: space-evenly;
+    align-items: center;
+}

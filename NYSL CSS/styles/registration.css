@@ -1,0 +1,118 @@
+h1{
+    font-family: sans-serif;
+    width: 100%;
+    padding-right: 50%;
+    padding-left: 50%
+}
+fieldset{
+    border-style: none;
+}
+.data{
+    width: 100%;
+    border-style: none;
+    margin-bottom: 5px;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.name input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.adress{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.adress input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.city{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.city input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.birth{
+    display: flex;
+    flex-direction: row;
+    width: 45%;
+    margin-bottom: 5px;
+}
+.birth input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+a{
+    margin-bottom: 5px;
+}
+.grade input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.parent{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.parent input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.contact{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 5px;
+}
+.contact input{
+    flex-grow: 1;
+    margin-bottom: 5px;
+}
+.school{
+    display: flex;
+    position: relative;
+    margin-bottom: 30px;
+}
+.cschool{
+    margin-right: 150px;
+}
+.position{
+    display: flex;
+    flex-direction: column;
+}
+.position1{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.position2{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.clothes{
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    flex-wrap: wrap;
+    width: 50%;
+    height: 70px;
+}
+.js{
+    display: flex;
+}
+#size{
+    display: flex;
+}
+#size p{
+    width: 50%;
+}
